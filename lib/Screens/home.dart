@@ -33,7 +33,7 @@ class _HomeState extends State<Home> {
             const Spacer(),
             const Center(
               child: Text(
-                "Buddy Pro",
+                "Buddy MAX ",
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 40,

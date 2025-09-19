@@ -65,7 +65,7 @@ class _SplashState extends State<Splash> {
             const Padding(
               padding: EdgeInsets.symmetric(horizontal: 32),
               child: Text(
-                'The Marketplace of Content Creators',
+                'The Marketplace of Content MAX CREATORS ',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   color: ColorsContants.primaryColor,
